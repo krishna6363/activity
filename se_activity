@@ -5,3 +5,10 @@ sum of two numbers
 encaptulation
 oop lang
 pop lang
+
+git commands:
+git status
+git init
+git add .
+git commit -m "initial commit"
+git clone (copied repositry path)
